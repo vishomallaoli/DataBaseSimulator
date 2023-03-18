@@ -1,0 +1,35 @@
+Memphis,1997
+Tyree Dach,Accountability Supervisor,45000
+Deangelo Klocko,Communications Strategist,38000
+Adrianna Romaguera Jr.,Principal Branding Specialist,50000
+Jackeline Bradtke,District Optimization Associate,35000
+Lurline Huels Sr.,Human Resources,40000
+Winfield Nienow,Tactics Consultant,37000
+Tampa,2002
+Joaquin Boyer,Intranet Analyst,39000
+Dejuan Schumm DDS,Internal Research Designer,55000
+Bethany Collier,Forward Program Analyst,42000
+Ransom Ruecker V,Product Applications Officer,47000
+New York,1994
+Curtis Greenfelder,Creative Strategist,74000
+Mrs. Brenna Bergnaum,International Applications Developer,72000
+Hunter Beier DVM,Central Marketing Orchestrator,69000
+Marcos Strosin,Dynamic Program Representative,60000
+Odell Nolan,Internal Assurance Strategist,80000
+Francisco Gibson,International Markets Developer,95000
+Monique Will,Intranet Liason,61000
+Atlanta,1995
+Estel Balistreri,Product Brand Orchestrator,46000
+Dakota McDermott,Senior Group Specialist,70000
+Reuben Kub MD,Global Branding Architect,75000
+Catharine Cummings PhD,Legacy Security Orchestrator,65000
+Loren Wunsch,Global Division Executive,100000
+Dr. Dorris Muller,National Operations Orchestrator,82000
+Alyce Fritsch,Central Tactics Designer,83000
+Lorenza Thompson,Direct Paradigm Engineer,110000
+Dallas,1992
+Clint Bartoletti,Central Accountability Engineer,84000
+Kallie Leuschke,Functionality Designer,68000
+Ms. Darian Gusikowski,Chief Infrastructure Engineer,120000
+Mr. Casey Luettgen,Principal Functionality Assistant,93000
+Cali Ullrich,International Program Assistant,75000
